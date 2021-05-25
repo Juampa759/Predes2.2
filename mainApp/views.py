@@ -4,7 +4,7 @@ from mainApp.forms import UsuarioForm
 
 # Create your views here.
 def index(request):
-    return render(request, 'mainApp/index.html',{
+    return render(request, '/templates/mainApp/index.html',{
         'title': 'Inicio'
     })
 
