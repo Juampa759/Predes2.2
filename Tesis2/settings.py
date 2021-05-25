@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-l4)2ul4tr480du&(beahy)z9t_gdk%^a%ml+kylda9-a27=1md
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://predestesis2.herokuapp.com/']
+ALLOWED_HOSTS = ['*']
 
 #STATICFILES_DIRS = ['C:/ProyectosDjango/Tesis2.2/mainApp/templates/static']
 
